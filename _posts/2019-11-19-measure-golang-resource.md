@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "Mesure Golang CPU Usage & Runtime Memory"
+title:  "Measure Golang CPU Usage & Runtime Memory"
 date:   2019-11-19 23:44:27 +0900
-categories: jekyll update
+categories: Go Resource
 ---
-You’ll find this post in your `_posts` director
+
+### How to measure golang CPU Usage & Runtime Memory?
+
+
