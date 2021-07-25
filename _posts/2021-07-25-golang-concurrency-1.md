@@ -5,6 +5,10 @@ date:   2021-07-25 15:01:00 +0900
 categories: Go Resource
 ---
 
+## [Golnag Concurreny] Select / Timeout and Deadline
+
+----------
+
 ### Select
 
 golang concurrency를 control 할 수 있는 structure를 의미합니다
