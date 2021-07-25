@@ -64,7 +64,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Site header */
 .site-header { min-height: 56px; position: relative; }
 
-.site-title { font-size: 26px; font-weight: 300; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; color:cornflowerblue;}
+.site-title { font-family:Permanent Marker; font-size: 26px; font-weight: 300; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; color:cornflowerblue;}
 
 .site-title:visited { color: #424242; }
 
@@ -272,4 +272,5 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .highlight .w { color: #727272; }
 
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 /*# sourceMappingURL=main.css.map */
