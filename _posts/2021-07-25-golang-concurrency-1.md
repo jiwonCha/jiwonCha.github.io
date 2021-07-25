@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "[Golnag Concurreny] Select / Timeout and Deadlines"
+title:  "[Go Concurreny] Select / Timeout and Deadlines"
 date:   2021-07-25 15:01:00 +0900
 categories: Go Resource
 ---
 
-## [Golnag Concurreny] Select / Timeout and Deadline
+## [Go Concurreny] Select / Timeout and Deadline
 
 ----------
 
