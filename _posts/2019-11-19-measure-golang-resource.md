@@ -5,8 +5,6 @@ date:   2019-11-19 23:44:27 +0900
 categories: Go
 ---
 
-## How to measure golang CPU Usage & Runtime Memory
-
 ----------
 
 오늘의 포스팅 주제는 golang에서 Runtime 시의 CPU, 메모리 사용량을 어떻게 측정할 수 있을까입니다.

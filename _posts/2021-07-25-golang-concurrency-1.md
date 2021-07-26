@@ -5,7 +5,7 @@ date:   2021-07-25 15:01:00 +0900
 categories: Go Resource
 ---
 
-## [Go Concurreny] Select / Timeout and Deadline
+Select / Timeout and Deadline / Quit
 
 ----------
 
