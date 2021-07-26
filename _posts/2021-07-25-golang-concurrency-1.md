@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Go Concurreny] Select / Timeout and Deadlines"
+title:  "[Go Concurrency] Select 구문"
 date:   2021-07-25 15:01:00 +0900
 categories: Go Resource
 ---
@@ -45,7 +45,7 @@ select {
 
 ### Quit
 
-`select`문을 통해 더 이상 communication을 지속할 필요가 없을 때는 통신을 종료하기 위한 `quit` case문을 제공합니다
+`select`문을 통해 더 이상 communication을 지속할 필요가 없을 때는 통신을 종료하기 위한 channel을 하나 두어 quit 기능을 구현
 
 ```go
 quit := make(chan bool)
