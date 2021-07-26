@@ -38,6 +38,8 @@ permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
 paginate: 5
 
+google_analytics: G-8WR7BQPCD3
+
 jekyll-archives:
   enabled:
    - categories
