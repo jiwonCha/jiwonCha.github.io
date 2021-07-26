@@ -40,9 +40,7 @@ paginate: 5
 
 google_analytics: G-8WR7BQPCD3
 
-disqus:
-  comments: true
-  shortname: https-jiwoncha-github-io
+comments: true
 
 jekyll-archives:
   enabled:
