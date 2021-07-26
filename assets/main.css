@@ -85,7 +85,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .page-heading { font-size: 20px; }
 
-.post-list { margin-left: 0; list-style: none; color:darkslateblue;}
+.post-list { margin-left: 0; list-style: none; color:darkslateblue; font-family:"Indie Flower";}
 
 .post-list .post-link:hover { text-decoration: none; }
 
