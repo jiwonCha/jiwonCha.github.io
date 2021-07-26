@@ -64,9 +64,9 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Site header */
 .site-header { min-height: 56px; position: relative; }
 
-.site-title { font-family:"Permanent Marker"; font-size: 26px; font-weight: 300; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; color:cornflowerblue;}
+.site-title { font-family:"Permanent Marker"; font-size: 30px; font-weight: 300; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; color:cornflowerblue;}
 
-.site-title:visited { color: #424242; }
+/* .site-title:visited { color: #424242; } */
 
 .site-nav { float: right; line-height: 56px; }
 
