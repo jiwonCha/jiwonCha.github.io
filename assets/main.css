@@ -116,25 +116,25 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; color:cornflowerblue; }
 
-@media screen and (max-width: 1000px) { .post-title { font-size: 36px; } }
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
 
 .post-content { margin-bottom: 30px; }
 
 .post-content h1 { font-size: 38px; }
 
-@media screen and (max-width: 1000px) { .post-content h1 { font-size: 34px; } }
+@media screen and (max-width: 800px) { .post-content h1 { font-size: 34px; } }
 
 .post-content h2 { font-size: 32px; }
 
-@media screen and (max-width: 1000px) { .post-content h2 { font-size: 28px; } }
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
 
 .post-content h3 { font-size: 26px; }
 
-@media screen and (max-width: 1000px) { .post-content h3 { font-size: 22px; } }
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
 
 .post-content h4 { font-size: 20px; }
 
-@media screen and (max-width: 1000px) { .post-content h4 { font-size: 18px; } }
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
 
 /** Pagination */
 .pagination { padding: 15px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; text-align: center; }
