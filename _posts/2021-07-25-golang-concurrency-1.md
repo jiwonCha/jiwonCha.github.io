@@ -4,8 +4,7 @@ title:  "[Go Concurrency] Select 구문"
 date:   2021-07-25 15:01:00 +0900
 categories: Go Resource
 ---
-
-Select / Timeout and Deadline / Quit
+## Select / Timeout and Deadline / Quit
 
 ----------
 
