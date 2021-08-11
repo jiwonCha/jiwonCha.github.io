@@ -52,5 +52,6 @@ kubectl get configmap/mymap
 Error from server (NotFound): configmaps "mymap" not found
 ```
 
+![image](https://user-images.githubusercontent.com/5278032/129057277-6cba2b1c-a3a4-4b30-9eb4-2ec0555a4efb.png)
 
 
